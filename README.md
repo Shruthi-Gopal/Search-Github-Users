@@ -8,3 +8,6 @@ A simple webpage created to learn ReactJS
 5. Fusion Charts
 6. Auth0
 7. Deployement
+
+Deployed Website : https://search-users-proj.netlify.app/
+Deployed using netlify
