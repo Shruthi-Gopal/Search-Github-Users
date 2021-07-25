@@ -9,5 +9,5 @@ A simple webpage created to learn React
 6. Auth0
 7. Deployement
 
-Deployed Website : https://search-users-proj.netlify.app/
+Deployed Website : https://search-users-proj.netlify.app
 Deployed using netlify
