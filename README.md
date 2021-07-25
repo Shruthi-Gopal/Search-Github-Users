@@ -1,5 +1,5 @@
 # Search-Github-Users
-A simple webpage created to learn ReactJS
+A simple webpage created to learn React
 
 1. Styled Components
 2. React Icons
